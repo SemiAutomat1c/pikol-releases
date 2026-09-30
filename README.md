@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/app-icon.png" alt="Pikol app icon" width="104" />
-</p>
-
-<h1 align="center">Pikol</h1>
-
-<p align="center">
   <strong>Find games. Build a crew. Get on court.</strong><br />
   Pickleball matchmaking and game coordination built around Tagum City.
 </p>
