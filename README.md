@@ -15,7 +15,7 @@
   <a href="https://github.com/SemiAutomat1c/pikol-releases/issues">Report an issue</a>
 </p>
 
-> **Current Android preview:** [v1.0.0-preview.16](https://github.com/SemiAutomat1c/pikol-releases/releases/tag/v1.0.0-preview.16). This repository distributes installable Android preview builds. Pikol's application source remains private.
+> **Current Android preview:** [v1.0.0-preview.17](https://github.com/SemiAutomat1c/pikol-releases/releases/tag/v1.0.0-preview.17). This repository distributes installable Android preview builds. Pikol's application source remains private.
 
 ## Find your next game
 
@@ -48,13 +48,13 @@ Pikol is made for the coordination that happens before everyone gets on court. I
 
 ## Download the Android preview
 
-The latest test build is **Pikol 1.0.0 preview 16**.
+The latest test build is **Pikol 1.0.0 preview 17**.
 
-**APK:** `pikol-v1.0.0-preview.16.apk`<br />
+**APK:** `pikol-v1.0.0-preview.17.apk`<br />
 **Minimum Android version:** Android 7.0 (API 24)
 
 <p align="center">
-  <a href="https://github.com/SemiAutomat1c/pikol-releases/releases/download/v1.0.0-preview.16/pikol-v1.0.0-preview.16.apk"><strong>Download preview 16 APK</strong></a>
+  <a href="https://github.com/SemiAutomat1c/pikol-releases/releases/download/v1.0.0-preview.17/pikol-v1.0.0-preview.17.apk"><strong>Download preview 17 APK</strong></a>
 </p>
 
 ### Install
