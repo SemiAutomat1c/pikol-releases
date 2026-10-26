@@ -15,7 +15,7 @@
   <a href="https://github.com/SemiAutomat1c/pikol-releases/issues">Report an issue</a>
 </p>
 
-> **Current Android preview:** [v1.0.0-preview.19](https://github.com/SemiAutomat1c/pikol-releases/releases/tag/v1.0.0-preview.19). This repository distributes installable Android preview builds. Pikol's application source remains private.
+> **Current Android preview:** [v1.0.0-preview.20](https://github.com/SemiAutomat1c/pikol-releases/releases/tag/v1.0.0-preview.20). This repository distributes installable Android preview builds. Pikol's application source remains private.
 
 ## Find your next game
 
@@ -48,13 +48,16 @@ Pikol is made for the coordination that happens before everyone gets on court. I
 
 ## Download the Android preview
 
-The latest test build is **Pikol 1.0.0 preview 19**.
+> **Required tester update:** Install preview 20 to continue sending chat messages. The live backend now requires current Terms acceptance; older previews cannot send new chat messages. After updating, sign in and accept the Terms when prompted.
 
-**APK:** `pikol-v1.0.0-preview.19.apk`<br />
+The latest test build is **Pikol 1.0.0 preview 20**.
+
+**APK:** `pikol-v1.0.0-preview.20.apk`<br />
+**Android build number:** 16 (app version 1.0.0)<br />
 **Minimum Android version:** Android 7.0 (API 24)
 
 <p align="center">
-  <a href="https://github.com/SemiAutomat1c/pikol-releases/releases/download/v1.0.0-preview.19/pikol-v1.0.0-preview.19.apk"><strong>Download preview 19 APK</strong></a>
+  <a href="https://github.com/SemiAutomat1c/pikol-releases/releases/download/v1.0.0-preview.20/pikol-v1.0.0-preview.20.apk"><strong>Download preview 20 APK</strong></a>
 </p>
 
 ### Install
@@ -64,6 +67,7 @@ The latest test build is **Pikol 1.0.0 preview 19**.
 3. If Android asks for permission to install apps from that source, allow it.
 4. Tap **Install**, then open Pikol.
 5. Sign in with your email. Pikol will send you a six-digit code.
+6. Accept the current Terms when prompted before continuing to the app.
 
 ## About preview builds
 
