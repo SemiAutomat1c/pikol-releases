@@ -15,7 +15,7 @@
   <a href="https://github.com/SemiAutomat1c/pikol-releases/issues">Report an issue</a>
 </p>
 
-> **Current Android preview:** [v1.0.0-preview.21](https://github.com/SemiAutomat1c/pikol-releases/releases/tag/v1.0.0-preview.21). This repository distributes installable Android preview builds. Pikol's application source remains private.
+> **Current Android preview:** [v1.0.0-preview.22](https://github.com/SemiAutomat1c/pikol-releases/releases/tag/v1.0.0-preview.22). This repository distributes installable Android preview builds. Pikol's application source remains private.
 
 ## Find your next game
 
@@ -50,14 +50,14 @@ Pikol is made for the coordination that happens before everyone gets on court. I
 
 > **Required tester update:** Use preview 20 or later to continue sending chat messages. The live backend now requires current Terms acceptance; older previews cannot send new chat messages. After updating, sign in and accept the Terms when prompted.
 
-The latest test build is **Pikol 1.0.0 preview 21**.
+The latest test build is **Pikol 1.0.0 preview 22**.
 
-**APK:** `pikol-v1.0.0-preview.21.apk`<br />
-**Android build number:** 17 (app version 1.0.0)<br />
+**APK:** `pikol-v1.0.0-preview.22.apk`<br />
+**Android build number:** 18 (app version 1.0.0)<br />
 **Minimum Android version:** Android 7.0 (API 24)
 
 <p align="center">
-  <a href="https://github.com/SemiAutomat1c/pikol-releases/releases/download/v1.0.0-preview.21/pikol-v1.0.0-preview.21.apk"><strong>Download preview 21 APK</strong></a>
+  <a href="https://github.com/SemiAutomat1c/pikol-releases/releases/download/v1.0.0-preview.22/pikol-v1.0.0-preview.22.apk"><strong>Download preview 22 APK</strong></a>
 </p>
 
 ### Install
